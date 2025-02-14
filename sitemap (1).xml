@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://madam-boutique.vercel.app/</loc>
+  <lastmod>2025-02-14T11:05:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/cart.html</loc>
+  <lastmod>2025-02-14T11:05:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/index.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/collection.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/comparison.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/aboutus.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/contact-Us.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/product1.html</loc>
+  <lastmod>2025-02-14T11:05:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/jacket.html</loc>
+  <lastmod>2025-02-14T11:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/shirt.html</loc>
+  <lastmod>2025-02-14T11:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/bags.html</loc>
+  <lastmod>2025-02-14T11:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/scarf.html</loc>
+  <lastmod>2025-02-14T11:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://madam-boutique.vercel.app/shoes.html</loc>
+  <lastmod>2025-02-14T11:05:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
